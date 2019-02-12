@@ -7,9 +7,6 @@ verify_ssl = true
 
 [packages]
 pytelegrambotapi = "*"
-pysocks = "*"
-sqlite3 = "*"
-sqlite = "*"
 
 [requires]
 python_version = "3.7"
